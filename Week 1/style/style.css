@@ -1,0 +1,39 @@
+.button{
+	position:absolute;
+	top:40px;
+	left:30px;
+
+}
+
+.parent {
+	position: relative;
+	background-color: black;
+	width: 400px;
+	height: 350px;
+	top: 20vh;
+	left: 30vw;
+}
+
+#div1{
+	position: relative;
+	width: 100%;
+	height: 45%;
+	background-color: #F32847;
+	margin-bottom: 10px;
+}
+
+#div2{
+	position: relative;
+	float: left;
+	background-color: #94DEE1;
+	width: 48%;
+	height: 50%;
+}
+
+#div3{
+	position: relative;
+	float: right;
+	background-color: #449294;
+	width: 48%;
+	height: 50%;
+}
